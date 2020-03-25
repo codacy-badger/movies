@@ -2,17 +2,19 @@
 
 I am a big movie fan. I watched just in cinema 100 movies in 10 years.
 
-- Builds from `develop` branch and deploys to Netlify: <https://movies-krsiak.netlify.com/>
-- Then points to: <https://movies.krsiak.cz/>
+## Netlify
 
-## Status
+App builds from `master` branch:
+ 
+- deploys to: <https://movies-krsiak.netlify.com/>
+- points to: <https://movies.krsiak.cz/>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ffdb97fb-1b98-4b1f-843b-f79ca6a0e1e0/deploy-status)](https://app.netlify.com/sites/movies-krsiak/deploys)
 
 ## Todo
 
-- [x] Use: [Create React App](https://github.com/facebook/create-react-app) to start your project
-- [x] Setup: deployment from Github using [Netlify]()
+- [x] [Create React App](https://github.com/facebook/create-react-app) to start your project
+- [x] Deployment from Github using [Netlify](https://www.netlify.com/)
 - [ ] React: [Router](https://github.com/ReactTraining/react-router) to handle multiple pages in the app
 - [ ] Setup and use in code: [Typescript](https://www.typescriptlang.org/)
 - [ ] React: [Functional Components](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
@@ -23,7 +25,7 @@ I am a big movie fan. I watched just in cinema 100 movies in 10 years.
 - [ ] UI library: [Chakra](https://chakra-ui.com/getting-started)
 - [ ] Setup: [Axios](https://github.com/axios/axios)
 - [ ] Fetch data: [from API](https://rapidapi.com/blog/list-of-online-movie-databases/) and use Axios to make a request
-- [ ] Data visualization: [charts.js](https://www.chartjs.org/)
+- [ ] Data visualization: [recharts](http://recharts.org/en-US/)
 
 ## Study plan
 
