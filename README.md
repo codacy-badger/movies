@@ -14,7 +14,7 @@ App builds from `master` branch: <https://movies.krsiak.cz/>
 
 - [x] React: [Create React App](https://github.com/facebook/create-react-app) to start your project
 - [x] React: [Router](https://github.com/ReactTraining/react-router) to handle multiple pages
-- [ ] UI library: [Chakra](https://chakra-ui.com/getting-started)
+- [x] UI library: [Chakra](https://chakra-ui.com/getting-started)
 - [ ] [Typescript](https://www.typescriptlang.org/): Use in code
 - [ ] React: [Functional Components](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
 - [ ] React: [Hooks](https://reactjs.org/docs/hooks-intro.html)
@@ -28,7 +28,9 @@ App builds from `master` branch: <https://movies.krsiak.cz/>
 
 - [x] Deploy from Github using [Netlify](https://www.netlify.com/)
 - [ ] Setup: [Prettier](https://prettier.io/) on save
-- [ ] Use [JSS](https://cssinjs.org/) for styling
+- [ ] Use: [Emotion](https://emotion.sh/docs/introduction) for CSS
+- [ ] Use: [JSS](https://cssinjs.org/) for CSS
+- [ ] Use: [Styled system](https://styled-system.com/)
 - [ ] Data visualization: [recharts](http://recharts.org/en-US/)
 - [ ] E2E tests: [Cypress](https://docs.cypress.io/)
 - [ ] Unit tests: [Jest](https://jestjs.io/)

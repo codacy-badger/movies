@@ -4,13 +4,24 @@ import {
   withRouter
 } from "react-router-dom";
 
+import {
+  List,
+  ListItem,
+} from "@chakra-ui/core";
+
 const Menu = () => {
   return (
-    <ul>
-      <li><Link to="/">Movies</Link></li>
-      <li><Link to="/charts">Charts</Link></li>
-      <li><Link to="/about">About</Link></li>
-    </ul>
+    <List styleType="none">
+      <ListItem>
+        <Link to="/">Movies</Link>
+      </ListItem>
+      <ListItem>
+        <Link to="/charts">Charts</Link>
+      </ListItem>
+      <ListItem>
+        <Link to="/about">About</Link>
+      </ListItem>
+    </List>
   )
 }
 
