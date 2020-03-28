@@ -4,7 +4,7 @@ I am a big movie fan and I watched just in cinema 100 movies in 10 years.
 
 ## 📚 Study plan
 
-My [study plan](study-plan.md) and progress with React and JavaScript.
+This project and my [study plan](study-plan.md) show what I learnt about React, JavaScript and other tools.
 
 ## 📦 Deployment
 

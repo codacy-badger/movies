@@ -1,6 +1,6 @@
 ## 📚 Study plan
 
-This project shows what I learnt about React, JavaScript and other tools.
+This project and my study-plan show what I learnt about React, JavaScript and other tools.
 
 ## React
 
