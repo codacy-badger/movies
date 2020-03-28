@@ -1,0 +1,19 @@
+{
+  "printWidth": 80,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "always",
+  "endOfLine": "lf",
+  "overrides": [
+    { "files": "*.yml", "options": { "useTabs": false } },
+    { "files": "*.json", "options": { "useTabs": false } },
+    { "files": ".eslintrc", "options": { "useTabs": false } },
+    { "files": ".prettierrc", "options": { "useTabs": false } },
+    { "files": ".stylelintrc", "options": { "useTabs": false } }
+  ]
+}

@@ -4,16 +4,15 @@ This project and my study-plan show what I learnt about React, JavaScript and ot
 
 ## React
 
-- [x] React: [Create React App](https://github.com/facebook/create-react-app) to start your project
-- [x] React: [Router](https://github.com/ReactTraining/react-router) to handle multiple pages
-- [ ] React: [Functional Components](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
-- [ ] React: [Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [x] [Create React App](https://github.com/facebook/create-react-app) to start your project
+- [x] [Router](https://github.com/ReactTraining/react-router) to handle multiple pages
+- [ ] [Functional Components](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
+- [ ] [Hooks](https://reactjs.org/docs/hooks-intro.html)
 
-Long term plan is to learn all from:
+Learn all from:
 
 - [ ] [Main concepts](https://reactjs.org/docs/hello-world.html)
 - [ ] [Advanced guides](https://reactjs.org/docs/accessibility.html)
-- [ ] [Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ### Redux
 
@@ -36,9 +35,14 @@ Long term plan is to learn all from:
 
 ## Design
 
-- [x] [Chakra](https://chakra-ui.com/getting-started)?
-- [ ] [Ant Design](https://ant.design/docs/react/introduce) has lot more components!
+- [x] [Chakra](https://chakra-ui.com/getting-started)
 - [ ] Data visualization: [recharts](http://recharts.org/en-US/)
+
+## Tools
+
+- [x] [Prettier](https://prettier.io/)
+- [ ] [JSS](https://cssinjs.org/)
+- [ ] [Emotion](https://emotion.sh/docs/introduction)
 
 ## Testing
 
@@ -48,10 +52,3 @@ Long term plan is to learn all from:
 ## Deployment
 
 - [x] Deploy from Github using [Netlify](https://www.netlify.com/)
-
-## Tools
-
-- [ ] Setup: [Prettier](https://prettier.io/) on save
-- [ ] Use: [JSS](https://cssinjs.org/) for CSS
-- [ ] Use: [Emotion](https://emotion.sh/docs/introduction) for CSS
-- [ ] Use: [Styled system](https://styled-system.com/)
