@@ -1,30 +1,32 @@
 # Movies
 
-I am a big movie fan. I watched just in cinema 100 movies in 10 years.
+I am a big movie fan and I watched just in cinema 100 movies in 10 years.
 
-## Netlify
+## 📦 Deployment
 
-App builds from `master` branch: <https://movies.krsiak.cz/>
+App uses [Netlify](https://docs.netlify.com/) to build from `master` branch and deploy on: <https://movies.krsiak.cz/>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ffdb97fb-1b98-4b1f-843b-f79ca6a0e1e0/deploy-status)](https://app.netlify.com/sites/movies-krsiak/deploys)
 
-## Scripts
+## 🔨 Scripts
 
 [Makefile](Makefile) provides following scripts:
 
-Run app on <http://localhost:3000/>:
+Run app on <http://localhost:3000/>
 
 ```
 make start
 ```
 
-Build the app in `/build/` folder:
+Build the app in `/build/` folder.
 
 ```
 make build
 ```
 
-## Study plan
+## 📚 Study plan
+
+This project is to show my learning process with React and JavaScript.
 
 ### Basics
 
@@ -56,6 +58,6 @@ make build
 
 Learn all from React Docs:
 
-- [Main concepts](https://reactjs.org/docs/hello-world.html)
-- [Advanced guides](https://reactjs.org/docs/accessibility.html)
-- [Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [ ] [Main concepts](https://reactjs.org/docs/hello-world.html)
+- [ ] [Advanced guides](https://reactjs.org/docs/accessibility.html)
+- [ ] [Hooks](https://reactjs.org/docs/hooks-intro.html)
