@@ -30,12 +30,16 @@ make build
 
 ## Prettier
 
-``
-prettier --check "src/_"
-prettier --check "src/\*\*/_.js"
-prettier --check "src/**/\*.tsx"
-prettier --check "src/**/\*.sass"
+Using CLI check files.
 
 ```
+prettier --check "src/**/*.js"
+prettier --check "src/**/*.tsx"
+```
 
+Format files.
+
+```
+prettier --write "./src/**/*.js"
+prettier --write "./src/**/*.tsx"
 ```

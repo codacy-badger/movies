@@ -1,9 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import * as serviceWorker from './serviceWorker';
-import { ThemeProvider } from "@chakra-ui/core";
+import React from 'react'
+import ReactDOM from 'react-dom'
+import * as serviceWorker from './serviceWorker'
+import { ThemeProvider } from '@chakra-ui/core'
 
-import App from './App';
+import App from './App'
 
 const ThemedApp = () => {
   return (
@@ -15,9 +15,6 @@ const ThemedApp = () => {
   )
 }
 
-ReactDOM.render(
-  <ThemedApp />,
-  document.getElementById('root')
-);
+ReactDOM.render(<ThemedApp />, document.getElementById('root'))
 
-serviceWorker.unregister();
+serviceWorker.unregister()
