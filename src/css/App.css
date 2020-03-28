@@ -17,3 +17,19 @@ body {
 ul {
   list-style: none;
 }
+
+p {
+  margin-bottom: 16px;
+}
+
+.table-movies {
+  border-collapse: collapse;
+}
+.table-movies thead th {
+  background: rgba(0, 0, 0, .1);
+}
+.table-movies th,
+.table-movies td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}

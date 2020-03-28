@@ -1,11 +1,15 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom';
+import {
+  Heading,
+  Text
+} from "@chakra-ui/core";
 
 const Charts = () => {
   return (
     <>
-      <h1>Charts</h1>
-      <p>charts</p>
+      <Heading as="h1">Charts</Heading>
+      <Text>charts</Text>
     </>
   );
 }

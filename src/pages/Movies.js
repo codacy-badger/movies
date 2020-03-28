@@ -1,31 +1,17 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom';
-
 import {
-  Alert,
-  AlertIcon,
   Heading,
-  Text,
-  Stack,
+  Text
 } from "@chakra-ui/core";
 
 const Movies = () => {
   return (
     <>
-      <Heading as="h1" css={headingCss}>Movies</Heading>
-      <Text mb={8}>movies</Text>
-      <Stack spacing={2}>
-        <Alert status="success">
-          <AlertIcon />
-          Chakra-ui + emotion installed.
-        </Alert>
-      </Stack>
+      <Heading as="h1">Movies</Heading>
+      <Text>movies</Text>
     </>
   );
 }
-
-const headingCss = {
-  color: '#0f0',
-};
 
 export default withRouter(Movies);
