@@ -32,7 +32,7 @@ make build
 
 ### Prettier
 
-Prettier will format changed files automatically with each commit. It uses [.prettierrc](.prettierrc) options. Files can be also formatted manually if needed.
+Changed files will be formatted automatically with each commit using [.prettierrc](.prettierrc) options. It can be done manually as well.
 
 ```
 make prettier
