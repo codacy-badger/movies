@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>Movies</h1>
   <p>
     <a href="https://movies.krsiak.cz/">
