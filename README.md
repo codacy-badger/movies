@@ -32,10 +32,32 @@ make build
 
 ### Prettier
 
-Command to format files uses options from [.prettierrc](.prettierrc).
+Command to format files uses [.prettierrc](.prettierrc) options.
 
 ```
 make prettier
 ```
+
+## Built with
+
+All I use to create this app.
+
+### Technology
+
+- [React](https://reactjs.org/)
+- [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Chakra UI](https://chakra-ui.com/getting-started)
+- [Emotion](https://emotion.sh/docs/introduction)
+
+### Tools
+
+- [EditorConfig](https://editorconfig.org/)
+- [Prettier](https://prettier.io/docs/en/index.html)
+
+### Services
+
+- [Netlify](https://www.netlify.com/)
+- [Smartlook](https://www.smartlook.com/)
 
 > Made by [Krsiak Daniel](https://krsiak.cz/)
