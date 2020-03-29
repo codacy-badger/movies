@@ -8,4 +8,4 @@ build:
 	yarn build
 
 prettier:
-	yarn prettier --write "./src/**/*.js" && prettier --write "./src/**/*.tsx"
+	yarn prettier --write "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}"
