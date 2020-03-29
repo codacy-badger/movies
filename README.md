@@ -1,14 +1,19 @@
-<div align="center">
-<h1>Movies</h1>
-<a href="https://movies.krsiak.cz/">
-  <img
-    height="128"
-    width="128"
-    alt="movies"
-    src="https://raw.githubusercontent.com/krsiakdaniel/movies/master/src/img/png/logo-128.png"
-  />
-</a>
-<p>I am a big movie fan. I watched 100 movies in cinema in 10 years.</p>
+<div style="text-align: center;">
+  <h1>Movies</h1>
+  <p>
+    <a href="https://movies.krsiak.cz/">
+      <img
+      width="128"
+      height="128"
+      alt="movies"
+      src="https://raw.githubusercontent.com/krsiakdaniel/movies/master/src/img/png/logo-128.png"
+      />
+    </a>
+  </p>
+  <p>I am a big movie fan and just in cinema I watched 100 movies in 10 years.</p>
+  <p>
+    <a href="https://movies.krsiak.cz/">https://movies.krsiak.cz/</a>
+  </p>
 </div>
 
 ---
@@ -19,7 +24,7 @@ This project and my [study plan](study-plan.md) show what I learnt about React, 
 
 ## 📦 Deployment
 
-App uses [Netlify](https://docs.netlify.com/) to build from `master` branch and deploy on: <https://movies.krsiak.cz/>
+App uses [Netlify](https://app.netlify.com/sites/movies-krsiak/deploys) to build from `master` branch and deploys on each commit.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ffdb97fb-1b98-4b1f-843b-f79ca6a0e1e0/deploy-status)](https://app.netlify.com/sites/movies-krsiak/deploys)
 
