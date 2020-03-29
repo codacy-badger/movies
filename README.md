@@ -1,6 +1,17 @@
-# Movies
+<div align="center">
+<h1>Movies</h1>
+<a href="https://movies.krsiak.cz/">
+  <img
+    height="128"
+    width="128"
+    alt="movies"
+    src="https://raw.githubusercontent.com/krsiakdaniel/movies/master/src/img/png/logo-128.png"
+  />
+</a>
+<p>I am a big movie fan. I watched 100 movies in cinema in 10 years.</p>
+</div>
 
-I am a big movie fan and I watched just in cinema 100 movies in 10 years.
+---
 
 ## 📚 Study plan
 
