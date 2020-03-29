@@ -40,7 +40,7 @@ make prettier
 
 ## Built with
 
-All I use to create this app.
+What I use to create this app.
 
 ### Technology
 
@@ -59,5 +59,7 @@ All I use to create this app.
 
 - [Netlify](https://www.netlify.com/)
 - [Smartlook](https://www.smartlook.com/)
+
+---
 
 > Made by [Krsiak Daniel](https://krsiak.cz/)
