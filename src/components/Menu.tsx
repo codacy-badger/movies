@@ -10,6 +10,9 @@ const Menu = () => {
         <Link to="/">Movies</Link>
       </ListItem>
       <ListItem>
+        <Link to="/detail">Detail</Link>
+      </ListItem>
+      <ListItem>
         <Link to="/charts">Charts</Link>
       </ListItem>
       <ListItem>
