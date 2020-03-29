@@ -2,7 +2,7 @@ import React from 'react';
 import { withRouter } from 'react-router-dom';
 import { Heading, Text } from '@chakra-ui/core';
 
-import MoviesData from '../data/movies';
+import MoviesData from '../data/movies.json';
 
 const About = () => {
   return (
@@ -24,7 +24,7 @@ const About = () => {
           </tr>
         </thead>
         <tbody>
-          {MoviesData.map((moviesItem) => {
+          {MoviesData.map((moviesItem: any) => {
             return (
               <tr>
                 <td>{moviesItem.id}</td>
