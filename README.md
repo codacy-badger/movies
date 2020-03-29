@@ -56,7 +56,7 @@ make prettier
 
 ## Built with
 
-What I use to create this app.
+What I use to create this app including all [dependencies](https://github.com/krsiakdaniel/movies/network/dependencies).
 
 ### Technology
 
