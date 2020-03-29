@@ -14,7 +14,9 @@ App uses [Netlify](https://docs.netlify.com/) to build from `master` branch and 
 
 ## 🔨 Scripts
 
-[Makefile](Makefile) provides following scripts:
+[Makefile](Makefile) provides following scripts.
+
+### React
 
 Run app on <http://localhost:3000/>
 
@@ -28,18 +30,12 @@ Build the app in `/build/` folder.
 make build
 ```
 
-## Prettier
+### Prettier
 
-Using CLI check files.
-
-```
-prettier --check "src/**/*.js"
-prettier --check "src/**/*.tsx"
-```
-
-Format files.
+Command to format files uses options from [.prettierrc](.prettierrc).
 
 ```
-prettier --write "./src/**/*.js"
-prettier --write "./src/**/*.tsx"
+make prettier
 ```
+
+> Made by [Krsiak Daniel](https://krsiak.cz/)

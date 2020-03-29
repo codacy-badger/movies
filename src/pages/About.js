@@ -1,17 +1,17 @@
-import React from 'react'
-import { withRouter } from 'react-router-dom'
-import { Heading, Text } from '@chakra-ui/core'
+import React from 'react';
+import { withRouter } from 'react-router-dom';
+import { Heading, Text } from '@chakra-ui/core';
 
-import MoviesData from '../data/movies'
+import MoviesData from '../data/movies';
 
 const About = () => {
   return (
     <>
-      <Heading as='h1'>About</Heading>
+      <Heading as="h1">About</Heading>
       <Text>
         I am a big movie fan. I watched just in cinema 100 movies in 10 years.
       </Text>
-      <table className='table-movies'>
+      <table className="table-movies">
         <thead>
           <tr>
             <th>ID</th>
@@ -35,12 +35,12 @@ const About = () => {
                 <td>{moviesItem.month}</td>
                 <td>{moviesItem.year}</td>
               </tr>
-            )
+            );
           })}
         </tbody>
       </table>
     </>
-  )
-}
+  );
+};
 
-export default withRouter(About)
+export default withRouter(About);
