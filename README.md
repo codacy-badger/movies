@@ -54,12 +54,11 @@ What I use to create this app.
 
 - [EditorConfig](https://editorconfig.org/)
 - [Prettier](https://prettier.io/docs/en/index.html)
+- [browserl.ist](https://browserl.ist/?q=%3E0.2%25%2C+not+dead%2C+not+ie+%3C%3D+11%2C+not+op_mini+all)
 
 ### Services
 
 - [Netlify](https://www.netlify.com/)
 - [Smartlook](https://www.smartlook.com/)
-
----
 
 > Made by [Krsiak Daniel](https://krsiak.cz/)
