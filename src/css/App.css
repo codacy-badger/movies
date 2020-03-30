@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  padding: 20px;
+  padding: 32px;
   background: #fff;
   color: #2c3e50;
 }
@@ -20,6 +20,19 @@ ul {
 
 p {
   margin-bottom: 16px;
+}
+
+a {
+  font-weight: 700;
+}
+
+input {
+  margin-bottom: 16px;
+}
+
+img {
+  width: 100%;
+  border-radius: 2px;
 }
 
 .table-movies {
