@@ -2,7 +2,7 @@ import React from 'react';
 import { withRouter } from 'react-router-dom';
 import { Heading, Text } from '@chakra-ui/core';
 
-import MoviesData from '../data/movies.json';
+import MoviesData from 'data/movies.json';
 
 const About = () => {
   return (
