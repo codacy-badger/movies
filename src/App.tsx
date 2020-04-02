@@ -1,12 +1,17 @@
 import React from 'react';
+import { ThemeProvider, CSSReset } from '@chakra-ui/core';
+
 import Routes from './routes';
-import './css/App.css';
+import theme from './styles/theme';
 
 const App = () => {
   return (
-    <>
-      <Routes />
-    </>
+    <React.StrictMode>
+      <ThemeProvider theme={theme}>
+        <CSSReset />
+        <Routes />
+      </ThemeProvider>
+    </React.StrictMode>
   );
 };
 
