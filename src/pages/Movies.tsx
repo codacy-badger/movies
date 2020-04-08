@@ -12,7 +12,6 @@ const Movies = () => {
     results: [],
   });
   const apiUrl = 'http://www.omdbapi.com/?apikey=6fc8b664';
-  // example: http://www.omdbapi.com/?apikey=6fc8b664&s=batman
 
   const search = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (e.key === 'Enter') {
@@ -22,8 +21,6 @@ const Movies = () => {
         setState((prevState) => {
           return { ...prevState, results: results };
         });
-
-        console.log(data);
       });
     }
   };
